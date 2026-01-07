@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+numpy
+altair
+Pillow
+fpdf
+gTTS
+requests
+SpeechRecognition
